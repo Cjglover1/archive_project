@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/Cjglover1/archive_project 
 
 ##########
 # SITE SETTINGS
@@ -27,7 +27,7 @@ tagline: a template for creating simple digital exhibits
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Cjglover1
 
 ##########
 # COLLECTION SETTINGS
